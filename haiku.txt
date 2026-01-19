@@ -1,1 +1,2 @@
 I'm Practicing Git
+There's no conflict here
